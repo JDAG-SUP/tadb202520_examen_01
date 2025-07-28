@@ -63,4 +63,3 @@ NRC: 000521113
 
 6.  **Verificar y Probar**:
     En este punto, el sistema está completamente funcional. Puedes ejecutar las consultas en `03_consultas_analisis.sql` o el script de prueba `05_prueba_funcionalidad.sql` para verificar los resultados.
-

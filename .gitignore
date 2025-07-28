@@ -1,0 +1,23 @@
+# Archivos de configuración de IDEs
+.idea/
+.vscode/
+
+# Archivos de sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de dependencias y logs
+*.log
+
+# Archivos de salida y exportaciones
+*.csv
+*.xlsx
+*.pdf
+*.png
+*.jpeg
+
+# Excepciones: Mantener los archivos de datos y diagramas requeridos
+!/datos/registro_llegadas_a_medellin_diciembre_2024.csv
+!/documentos/*.png
+!/documentos/*.jpeg
+!/documentos/*.pdf
