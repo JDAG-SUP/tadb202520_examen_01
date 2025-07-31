@@ -1,0 +1,14 @@
+Universidad Pontificia Bolivariana
+Facultad Ingeniería en Energía, Computación y TIC 
+Programas de Ingeniería en Sistemas e Informática – Ingeniería en Ciencia de Datos
+Curso de Tópicos Avanzados de Base de Datos
+NRC: 30286, 30578 – Periodo 202520
+Docente: Juan Darío Rodas - juand.rodasm@upb.edu.co
+
+
+-- ============================================================ --
+-- Marca de recepción de examen
+-- Hasta este punto se considera entrega del examen
+-- Cualquier modificación posterior no será tenida en cuenta
+-- ============================================================ --
+
